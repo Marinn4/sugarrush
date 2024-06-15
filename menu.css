@@ -36,7 +36,14 @@ list-style: none;
     display: none;  
 }
 @media ( max-width:600px) {
-  
+    #header{
+        box-sizing:border-box;
+        height: 70px;
+        width: 40px;
+        display: flex;
+        align-items: center;
+        justify-content:left;  
+    }
     #btn-mobi{
         display: block;
     }
@@ -49,10 +56,5 @@ list-style: none;
 
     }
     
-    a{
-        color:rgb(223, 77, 77);
-        text-decoration: none;
-        font-family: sans-serif;
-        justify-content: left;
-        }
+    
 }
