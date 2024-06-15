@@ -35,15 +35,8 @@ list-style: none;
 #btn-mobi{
     display: none;  
 }
-@media ( max-width:700px) {
-    #header{
-        box-sizing:border-box;
-        height: 70px;
-        width: 40px;
-        display: flex;
-        align-items: center;
-        justify-content:left;  
-    }
+@media ( max-width:600px) {
+    
     #btn-mobi{
         display: block;
     }
@@ -58,5 +51,10 @@ list-style: none;
 
     }
     
-    
+    a{
+        color:rgb(17, 0, 255);
+        text-decoration: none;
+        font-family: sans-serif;
+        justify-content: right;
+        }
 }
