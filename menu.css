@@ -35,7 +35,7 @@ list-style: none;
 #btn-mobi{
     display: none;  
 }
-@media ( max-width:600px) {
+@media ( max-width:400px) {
     #header{
         box-sizing:border-box;
         height: 70px;
