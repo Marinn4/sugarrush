@@ -48,7 +48,9 @@ list-style: none;
         display: block;
     }
     #menu{
-        display:none;   
+        display:none; 
+        position:absolute;
+        width: 40%;  
     }
     
     #nav.active #menu {
