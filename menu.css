@@ -40,21 +40,17 @@ list-style: none;
         display: block;
     }
     #menu{
-        display:none;
-        position: absolute;
-        text-align:left;
-        
+        display:none;   
     }
     
     #nav.active #menu {
         display:flex;
 
     }
+    
     a{
         color:rgb(223, 77, 77);
         text-decoration: none;
         font-family: sans-serif;
-        text-align: left;
-    }
-
+        }
 }
