@@ -8,6 +8,8 @@ body, ul{
 color:rgb(137, 135, 228);
 text-decoration: none;
 font-family: sans-serif;
+text-align: center;
+height: -200px;
 
 }
 a:hover{
