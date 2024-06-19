@@ -8,7 +8,7 @@ body, ul{
 color:rgb(137, 135, 228);
 text-decoration: none;
 font-family: sans-serif;
-height: -200px;
+
 
 }
 a:hover{
@@ -37,6 +37,9 @@ list-style: none;
     display: none;  
 }
 @media ( max-width:600px) {
+    a{
+        text-align:left;
+    }
     
     #btn-mobi{
         display: block;
