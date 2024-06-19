@@ -25,7 +25,7 @@ a:hover{
 #menu{
 display: flex;
 list-style: none;
-
+text-align: center;
 }
 
 #menu a {
