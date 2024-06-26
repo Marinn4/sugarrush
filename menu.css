@@ -19,9 +19,7 @@ a:hover{
     height: 70px;
     padding: 1rem;
     display: flex;
-    align-items: center;
-    justify-content:left;  
-    text-align: center;
+    
 }
 #menu{
 display: flex;
