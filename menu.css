@@ -28,11 +28,7 @@ list-style: none;
 text-align: center;
 }
 
-#menu a {
-    display: block;
-    padding: .5rem;
 
-}
 #btn-mobi{
     display: none;  
 }
