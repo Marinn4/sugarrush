@@ -21,12 +21,13 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content:left;  
+    text-align: center;
 }
 #menu{
 display: flex;
 list-style: none;
 text-align: center;
-padding-left: 100px;
+
 }
 
 
