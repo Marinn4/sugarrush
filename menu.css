@@ -46,6 +46,7 @@ text-align: center;
     
     #nav.active #menu {
         display:flex;
+        flex-direction: column;
     }  
     
     
