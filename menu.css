@@ -1,8 +1,7 @@
 body, ul{
     margin: 0;
     padding: 0;
-    background-image: url();
-}
+    background-color: #FFFBDA;
 
  a{
 color:rgb(137, 135, 228);
@@ -50,8 +49,11 @@ text-align: center;
     
     #nav.active #menu {
         display:flex;
-
+        flex-direction: column;
     }
     
     
 }
+
+
+
